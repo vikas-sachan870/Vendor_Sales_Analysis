@@ -147,11 +147,6 @@ jupyter notebook
 **Vikas Sachan**
 - GitHub: [@vikas-sachan870](https://github.com/vikas-sachan870)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
